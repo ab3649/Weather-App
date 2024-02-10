@@ -28,7 +28,7 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    String CITY;
+    String CITIES;
 
     String API = “Your Api Key here”;
 
